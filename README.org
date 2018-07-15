@@ -1,0 +1,21 @@
+** About this repository
+
+This repository contains scripts to generate text files to use with the typing program [[https://github.com/webiest/amphetype][Amphetype]]. Currently there is a script for generating practice files based on frequent words, and a script for generating chapters of the Bible in plain text.
+
+** Practice files
+
+Anyone is free to download and tinker with the scripts, but if you just want to get the files to use yourself, you can download them at the links below:
+
+- [[https://github.com/StevenTammen/amphetype-texts/tree/master/frequency-lists][Frequent words]]
+- [[https://github.com/StevenTammen/amphetype-texts/tree/master/bible-chapters][Bible chapters]]
+
+I would suggest you download the whole repository as a zip archive (on the [[https://github.com/StevenTammen/amphetype-texts][base page]] click "Clone or download" --> "Download ZIP"). This is much more efficient than downloading files one by one.
+
+** Copyright
+
+The scripts are licensed under the [[http://www.gnu.org/licenses/gpl.html][GNU General Public License v3]].
+
+#+BEGIN_HTML
+<br/>
+<a rel="license", href="http://www.gnu.org/licenses/gpl.html"><img src="http://www.gnu.org/graphics/gplv3-88x31.png", alt="GNU GPLv3 License")></a>
+#+END_HTML
